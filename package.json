@@ -1,0 +1,23 @@
+{
+  "name": "stock-market",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp \"Chart the Stock Market\" project implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anischyros/stock-market.git"
+  },
+  "author": "Bob Sutton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anischyros/stock-market/issues"
+  },
+  "homepage": "https://github.com/anischyros/stock-market#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  }
+}
