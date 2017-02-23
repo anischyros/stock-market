@@ -1,1 +1,1 @@
-FreeCodeCamp stock market graph project implementation.
+FreeCodeCamp "chart the stock market" project implementation.
